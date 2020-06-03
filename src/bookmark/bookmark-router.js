@@ -95,3 +95,5 @@ bookmarkRouter
           .status(204)
           .end()
     })
+
+module.exports = bookmarkRouter
